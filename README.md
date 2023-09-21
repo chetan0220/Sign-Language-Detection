@@ -13,15 +13,15 @@ The dataset encompasses all the English alphabet letters, providing extensive co
 1. [Training Dataset](https://drive.google.com/drive/u/0/folders/1-XTAjPPRPFeRqu3848z8dMXaolILWizn)
 2. [Testing Dataset](https://drive.google.com/drive/u/0/folders/18e1F1n1SWPF8lUF8pCKdUzSzKAbmSbVN)
 ## Technologies and Tools
-Python(^3)
-Numpy
-Pandas
-Matplotlib
-Pillow
-Tensorflow
-Keras
-OpenCV
-Streamlit
+Python(^3)<br>
+Numpy<br>
+Pandas<br>
+Matplotlib<br>
+Pillow<br>
+Tensorflow<br>
+Keras<br>
+OpenCV<br>
+Streamlit<br>
 ## Streamlit Setup for localhost
 ```
 pip install streamlit
