@@ -1,6 +1,6 @@
 # Sign Language Detection
 
-## General Info
+# General Info
 The project converts the American hand sign gesture image to text. It uses Convolutional Neural Networks to process images with the help of Transfer Learning. The pre-trained model used here is VGG16.<br>
 **About VGG16**<br>
 VGG16 refers to the VGG model, also called VGGNet. It is a convolution neural network (CNN) model supporting 16 layers. K. Simonyan and A. Zisserman from Oxford University proposed this model. The VGG16 model can achieve a test accuracy of 92.7% in ImageNet, a dataset containing more than 14 million training images across 1000 object classes. It is one of the top models from the ILSVRC-2014 competition. 
