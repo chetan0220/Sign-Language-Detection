@@ -8,7 +8,7 @@ VGG16 refers to the VGG model, also called VGGNet. It is a convolution neural ne
 ![Prediction](https://github.com/chetan0220/sign_language_detection/assets/97821311/d4a9ebfd-7aed-4a9d-ac30-5f032a8048d7)
 2. Streamlit
 ## Dataset 
-The dataset encompasses all the English alphabet letters, providing extensive coverage for American Sign Language (ASL) gestures. Size of training dataset is 12875. Size of testing dataset is 4268. Images are of the size (310, 310).
+The dataset encompasses all the English alphabet letters, providing extensive coverage for American Sign Language (ASL) gestures. Size of training dataset is 12875. Size of testing dataset is 4268. Images are of the size (310, 310).<br>
 **Dataset Source**
 1. [Training Dataset](https://drive.google.com/drive/u/0/folders/1-XTAjPPRPFeRqu3848z8dMXaolILWizn)
 2. [Testing Dataset](https://drive.google.com/drive/u/0/folders/18e1F1n1SWPF8lUF8pCKdUzSzKAbmSbVN)
