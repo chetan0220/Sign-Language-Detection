@@ -4,7 +4,7 @@ The project converts the American hand sign gesture image to text. It uses Convo
 **About VGG16**<br>
 VGG16 refers to the VGG model, also called VGGNet. It is a convolution neural network (CNN) model supporting 16 layers. K. Simonyan and A. Zisserman from Oxford University proposed this model. The VGG16 model can achieve a test accuracy of 92.7% in ImageNet, a dataset containing more than 14 million training images across 1000 object classes. It is one of the top models from the ILSVRC-2014 competition. 
 ## Demo
-1. Jupyter Notebook
+1. Jupyter Notebook<br>
 ![Prediction](https://github.com/chetan0220/sign_language_detection/assets/97821311/d4a9ebfd-7aed-4a9d-ac30-5f032a8048d7)
 2. Streamlit
 ## Dataset 
