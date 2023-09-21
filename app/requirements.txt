@@ -1,5 +1,0 @@
-tensorflow
-streamlit==0.63.0
-opencv-python
-pillow
-numpy
