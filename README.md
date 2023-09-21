@@ -7,7 +7,7 @@ VGG16 refers to the VGG model, also called VGGNet. It is a convolution neural ne
 
 # Demo
 1. _Jupyter Notebook_<br>
-![Prediction](https://github.com/chetan0220/sign_language_detection/assets/97821311/d4a9ebfd-7aed-4a9d-ac30-5f032a8048d7)
+![prediction](https://github.com/chetan0220/sign_language_detection/assets/97821311/ef944ad9-80b8-4794-8737-6c47132153b9)
 2. _Streamlit_<br>
 Watch video demo here<br>
 [sld-demo.webm](https://github.com/chetan0220/sign_language_detection/assets/97821311/007ceb98-7f39-4dfb-9070-2c3fd534a4da)
