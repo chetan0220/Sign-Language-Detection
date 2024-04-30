@@ -40,3 +40,5 @@ The model was able to predict with test accuracy of 96.37%. The test loss is 1.5
 
 ---
 Read the Blog [*Here*](https://medium.com/@chetan0220/speaking-with-signs-harnessing-vgg16-transfer-learning-for-sign-language-a79fc8db27eb)
+---
+If you have any query, feedback or suggestion feel free to drop a mail at chetan.mahale0220@gmail.com :) 
