@@ -15,7 +15,7 @@ Watch video demo here<br>
 # Dataset 
 The dataset encompasses all the English alphabet letters, providing extensive coverage for American Sign Language (ASL) gestures. Size of training dataset is 12875. Size of testing dataset is 4268. Images are of the size (310, 310).<br>
 **Dataset Source**
-1. [Dataset](https://github.com/luvk1412/Sign-Language-to-Text)
+[Dataset](https://github.com/luvk1412/Sign-Language-to-Text)
 
 # Technologies and Tools
 Python(^3)<br>
